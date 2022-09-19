@@ -1,3 +1,3 @@
 # python
 Hotel Reservation
-My first Python code
+This project is developed in python language for the purpose of booking hotel 
